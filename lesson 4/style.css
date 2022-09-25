@@ -1,0 +1,142 @@
+html,
+body {
+  height: 900px;
+  width: 1440px;
+  background-color: #f8f8f8;
+}
+.container-1080 {
+  max-width: 1080px;
+  margin: 0 auto;
+  font-family: "League Spartan";
+  font-style: normal;
+}
+
+.header {
+  display: flex;
+}
+
+.price-section {
+  display: flex;
+}
+
+.watch {
+  font-weight: 300;
+  font-size: 250px;
+  line-height: 230px;
+  margin-bottom: 100px;
+  color: #272727;
+}
+
+.header-description {
+  font-weight: 300;
+  font-size: 32px;
+  line-height: 155%;
+  margin-bottom: 60px;
+  color: #161515;
+  box-sizing: border-box;
+  width: 575px;
+  height: 142px;
+}
+
+.mor705 {
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 186%;
+  color: #161515;
+}
+
+.buy-btn {
+  width: 278px;
+  height: 82px;
+  color: white;
+  background: #161515;
+}
+
+.price {
+  width: 143px;
+  height: 82px;
+  text-align: center;
+  line-height: 82px;
+  background: #ffffff;
+  box-shadow: 0px 0px 28px rgba(214, 214, 214, 0.25);
+}
+.catalog {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+}
+.popular {
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 186%;
+  color: #000000;
+  margin-top: 43px;
+}
+.models {
+  font-weight: 400;
+  font-size: 72px;
+  line-height: 112.5%;
+  color: #000000;
+  margin-bottom: 84px;
+}
+.son22 {
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 29px;
+  color: #000000;
+  margin-top: 67px;
+}
+.text1 {
+  box-sizing: border-box;
+  width: 531px;
+  height: 194px;
+  font-weight: 300;
+  font-size: 32px;
+  line-height: 155%;
+  color: #161515;
+  margin-top: 17px;
+  margin-bottom: 85px;
+}
+.sw12 {
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 186%;
+  text-align: center;
+  text-transform: capitalize;
+  color: #161515;
+  margin-top: 17px;
+}
+.text2 {
+  box-sizing: border-box;
+  width: 510px;
+  height: 196px;
+  font-weight: 300;
+  font-size: 32px;
+  line-height: 155%;
+  color: #161515;
+  margin-bottom: 59px;
+}
+.product {
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 186%;
+  text-transform: capitalize;
+  color: #161515;
+  margin-bottom: 49px;
+}
+.product::after {
+  content: "";
+  border: 1px solid#707070;
+  display: flex;
+}
+.text3 {
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 170%;
+  color: #161515;
+  box-sizing: border-box;
+  width: 515px;
+  height: 231px;
+  margin-bottom: 142px;
+}
